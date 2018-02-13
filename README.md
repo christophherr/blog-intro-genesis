@@ -1,6 +1,6 @@
 # Blog Intro Plugin
 
-WordPress plugin to add and introduction to your Blog / Posts page.
+WordPress plugin to add an introduction to your Blog / Posts page.
 
 Requires the Genesis Framework and PHP 5.6+.
 
